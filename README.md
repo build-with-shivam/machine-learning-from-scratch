@@ -48,41 +48,47 @@ Whether you're a student, software engineer, DevOps engineer, or someone transit
 # 📁 Repository Structure
 
 ```
-machine-learning-from-scratch/
+machine-learning-from-scratch
 │
-├── 01_ml_lifecycle/
-│   ├── notebook.ipynb
-│   ├── main.py
-│   ├── README.md
-│   └── images/
+├── 01_ml_lifecycle
 │
-├── 02_house_price_prediction/
+├── 02_linear_regression
 │
-├── 03_linear_regression/
+├── 03_logistic_regression
 │
-├── 04_logistic_regression/
+├── 04_decision_tree
 │
-├── 05_decision_tree/
+├── 05_random_forest
 │
-├── 06_random_forest/
+├── 06_knn
 │
-├── 07_knn/
+├── 07_svm
 │
-├── 08_svm/
+├── 08_kmeans
 │
-├── 09_kmeans/
+├── 09_model_evaluation
 │
-├── 10_model_evaluation/
+├── 10_feature_engineering
 │
-├── datasets/
+├── 11_cross_validation
 │
-├── assets/
-│   ├── images/
-│   └── diagrams/
+├── 12_hyperparameter_tuning
 │
-├── requirements.txt
+├── 13_neural_networks
 │
-└── README.md
+├── 14_cnn
+│
+├── 15_rnn
+│
+├── 16_transformers
+│
+├── 17_llms
+│
+├── 18_rag
+│
+├── 19_ai_agents
+│
+└── 20_mlops
 ```
 
 ---
